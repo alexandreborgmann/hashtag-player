@@ -16,7 +16,7 @@ const totalTime = document.getElementById('total-time');
 const noGood = {
     songName : 'No Good',
     artist : 'Mindme',
-    file : 'Mindme - No Good',
+    file : 'Mindme-NoGood',
     liked : false
 
 }
